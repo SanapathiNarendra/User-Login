@@ -29,5 +29,10 @@ body {
   padding: 8px;
   margin-top: 4px;
 }
-
+.login-button {
+  width: 100%;
+  
+  cursor: pointer;
+  background-color: cornflowerblue;
+}
 
