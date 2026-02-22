@@ -7,3 +7,10 @@ body {
   height: 100vh;
 }
 
+.login-form {
+  background: rgb(234, 203, 203);
+  padding: 20px 30px;
+  border-radius: 8px;
+  width: 280px;
+}
+
