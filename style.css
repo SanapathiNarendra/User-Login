@@ -38,5 +38,10 @@ body {
   cursor: pointer;
   background-color: rgb(34, 12, 231);
 }
+.user-input{
+  padding-right: 70px;
+    padding-top: 11px;
+    padding-bottom: 4px;
 
+}
 
