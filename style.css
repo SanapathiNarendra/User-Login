@@ -5,12 +5,13 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+
 }
 
 .login-form {
   background: rgb(234, 203, 203);
   padding: 20px 30px;
-  border-radius: 8px;
+  border-radius: 9px;
   width: 280px;
 }
 .login-label {
@@ -42,6 +43,7 @@ body {
   padding-right: 70px;
     padding-top: 11px;
     padding-bottom: 4px;
+    padding-left: 7px;
 
 }
 
