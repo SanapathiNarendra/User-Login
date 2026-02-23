@@ -21,13 +21,16 @@ body {
 }
 
 .input-block {
-  margin-bottom: 12px;
+    Width:400px;
+     padding-bottom: 16px;
+    padding-right: 48px;
+    padding-top: 9px;
 }
 
 .user-password {
-  width: 100%;
-  padding: 8px;
-  margin-top: 4px;
+      width: 54%;
+    padding: 8px;
+    margin-top: 4px;
 }
 .login-button {
   width: 100%;
@@ -35,4 +38,5 @@ body {
   cursor: pointer;
   background-color: rgb(34, 12, 231);
 }
+
 
